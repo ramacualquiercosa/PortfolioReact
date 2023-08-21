@@ -1,0 +1,19 @@
+{
+    "Discos":{
+        "0":{
+            "nombre": "Clics Modernos",
+            "artista" : "Charly García",
+            "img" : "https://upload.wikimedia.org/wikipedia/commons/8/8e/Clics-modernos-charly-garcia-front.jpg"
+        },
+        "1":{
+            "nombre": "Téster de violencia",
+            "artista" : "Luis Alberto Spinetta",
+            "img" : "https://i.discogs.com/7C5SFmFKvr5fsYmcCS2xStxkV5tmVg07U8ogjkCoKRE/rs:fit/g:sm/q:90/h:280/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjMy/NjgtMTMwOTM3NjM4/OC5qcGVn.jpeg"
+        },
+        "2":{
+            "nombre": "Del 63",
+            "artista" : "Fito Páez",
+            "img" : "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fitopaez_del63.jpg"
+        }
+    }
+}
