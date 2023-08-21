@@ -12,7 +12,7 @@ const ProfileCard = () => {
 		<div class="container mx-auto text-left text-white">
 			<div class="flex items-center">
 				<div class="w-1/2">
-					<h1 class="text-5xl font-medium mb-6">Hola, soy Charly!</h1>
+					<h1 class="text-5xl font-medium mb-6">Hola, soy Carlos!</h1>
 					<p class="text-xl mb-12">me especializo en el desarrollo de interfaces de usuario dinámicas y responsivas para sitios web y aplicaciones, manteniéndome actualizado en las últimas tendencias del diseño y la programación web.</p>
 					<a href="/about" class="bg-indigo-500 text-white py-4 px-12 rounded-full hover:bg-indigo-600">Conoceme</a>
 				</div>
